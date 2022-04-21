@@ -5,7 +5,7 @@ const memberName = ["徐子桓", "吳啟賢", "林靖詒", "高涵毅", "廖泓�
 const memberInfo = ["工程師<br>電機系大三", 
 					"工程師<br>電機系大三", 
 					"設計師<br>工設系碩一", 
-					"工程師<br>電機系大三", 
+					"工程師<br>統計系大四", 
 					"工程師<br>電機系大三"];
 const description = ["We are BeiBei.<br>We are a TEAM.",
 					"BeiBei致力於提供學生組織一個<br>最輕鬆上手的智慧錢包系統，<br>快來認識我們的團隊夥伴吧!"];

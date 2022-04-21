@@ -2,7 +2,7 @@ body {
 	margin: 0;
 }
 
-.mainflex {
+#__AboutUs__fullscreen {
 	width: 100vw;
 	padding-bottom: 15vw;
 	display: flex;
@@ -10,7 +10,7 @@ body {
 	justify-content: center;
 }
 
-.topmargin {
+#__AboutUs__header__container {
 	width: 100vw;
 	height: 20.6vw;
 	padding-bottom: 0.9vh;
@@ -33,7 +33,7 @@ body {
 	color: #ffffff;
 }
 
-.teampic_container {
+#__AboutUs_teampic_container {
 	display: flex;
 	height: 66.7vw;
 	align-items: center;
@@ -67,6 +67,10 @@ body {
 	opacity: 0;
 }
 
+#__AboutUs_teamintro_container {
+	text-align: center;
+}
+
 .team_title {
 	text-align: center;
 	font: 8.2vw Helvetica bold Condensed;
@@ -83,7 +87,7 @@ body {
 	color: #1a1a1a;
 }
 
-#people_pic_container {
+#__AboutUs__mugshot__container {
 	width: 100vw;
 	height: 67vw;
 	margin-top: 3.3vh;
@@ -136,14 +140,14 @@ body {
 	opacity: 0;
 }
 
-.arrow_description_flex {
+#__AboutUs__description__container {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
 	align-items: center;
 }
 
-.people_description_flex {
+#__description__bar {
 	display: flex;
 	flex-direction: column;
 }
@@ -164,7 +168,7 @@ body {
 	transition: 0.2s linear;
 }
 
-.dots_flex {
+#__AboutUs__dots__container {
 	display: flex;
 	justify-content: center;
 }
@@ -207,7 +211,7 @@ body {
 	border: 0.3vw solid #1a1a1a;
 }
 
-.bottombanner {
+#__AboutUs__footer__container {
 	position: fixed;
 	width: 100vw;
 	height: 15vw;
@@ -222,7 +226,7 @@ body {
 	justify-content: space-between;
 }
 
-.banner_item {
+#__footer__bar {
 	margin-left: 1vw;
 	margin-right: 1vw;
 	display: flex;
